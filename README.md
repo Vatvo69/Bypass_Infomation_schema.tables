@@ -7,3 +7,4 @@
 # sys.innodb_buffer_stats_by_table
 # mysql.innodb_table_stats
 # sys.schema_tables_with_full_table_scans
+# sys.x$schema_flattened_keys
